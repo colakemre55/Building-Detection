@@ -1,0 +1,12 @@
+names:
+- building
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: building-detection-from-satellite-images-ghtvy
+  url: https://universe.roboflow.com/fyp-scksi/building-detection-from-satellite-images-ghtvy/dataset/15
+  version: 15
+  workspace: fyp-scksi
+test: ../test/images
+train: ../train/images
+val: ../valid/images

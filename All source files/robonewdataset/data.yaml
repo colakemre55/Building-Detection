@@ -1,0 +1,13 @@
+test: ../test/images
+train: ../train/images
+val: ../valid/images
+
+names: 
+  0: aerial-img
+  1: agricultural_land
+  2: building
+  3: dryland
+  4: greenland
+  5: metalled_road
+  6: unmetalled_road
+  7: wetland
